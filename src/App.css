@@ -1,0 +1,15 @@
+.title {
+  text-align:center;
+  font-size:28px;
+  background-color:blanchedalmond ;
+}
+.img{
+  width:150px;
+  height:150px;
+}
+.drinkname ,.categoryname,.ingri{
+  color:blue; 
+}
+.mar{
+  margin-top: 40px;
+}
